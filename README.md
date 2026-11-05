@@ -6,14 +6,15 @@
 
 
 
-## Princípios operacionais
+## Resumo
 
-<pre><code>ROLE        = Ciência de Dados e IA
-LOCATION    = Brasília -DF
-PUBLIC_REPOS = 16
-COMMUNITY   = 19 followers</code></pre>
+<pre><code>Analista Financeiro com sólida experiência em controles financeiros, análises de processos,
+conciliação bancária, contas a pagar, e análise de informações no setor hospitalar. Graduado em
+Segurança da Informação pela afinidade na segurança dos dados e atualmente estou cursando MBA em
+Ciência de Dados e Inteligência Artificial para aperfeiçoamento do conhecimento profundo no
+aprendizado de máquina e análise de dados.</code></pre>
 
-## Tempo de atividade
+## Atividade 
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=lsnbsb&theme=github-dark" alt="lsnbsb Contribuições" />
@@ -31,7 +32,7 @@ COMMUNITY   = 19 followers</code></pre>
 
 - ** Em breve
 
-## Ferramentas utilizadas
+## Ferramentas
 
 <p><code>lsnbsb@github:~$ toolbox --list</code></p>
 
