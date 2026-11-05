@@ -15,9 +15,9 @@ ___
   </a>
 </p>
 
-Minha jornada começou na administração financeira, lidando diariamente com conciliações e rotinas complexas. Logo percebi que automatizar processos não era apenas um atalho, mas um superpoder. Passava horas criando scripts e nem via o tempo passar. Ter o poder de transformar bases de dados e planilhas intermináveis em pipelines inteligentes foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um ecossistema automatizado.
+Minha jornada nos dados de fato começou quando me tornei analista financeiro , lidando diariamente com conciliações e rotinas complexas. Logo percebi que automatizar processos não era apenas um atalho, mas um diferencial. Passava horas tentando criando scripts (Antes da IA) e nem via o tempo passar. Ter a capacidade de transformar e extrair dados e planilhas intermináveis em pipelines inteligentes é incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um ecossistema fluído e funcional..
 
-Hoje, com foco em Ciência de Dados e Engenharia de Dados, continuo montando minhas soluções, mas agora com Python, PostgreSQL, Pandas e integrações com IA. Alguns dos meus projetos, como pipelines ETL para dados de transparência pública, estão nos repositórios fixados do perfil.
+Hoje, com foco em Ciência de Dados e Engenharia de Dados, continuo montando minhas soluções, mas agora com Python, PostgreSQL, Pandas e integrações com IA. Alguns dos meus projetos, como pipelines ETL para dados públicos , estão nos repositórios do perfil.
 
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-0A192F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
