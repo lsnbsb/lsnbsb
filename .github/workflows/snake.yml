@@ -1,35 +1,28 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
-  schedule: # Executa a cada 12 horas
-    - cron: "0 */12 * * *"
-  
-  # Permite rodar o script manualmente na aba Actions
+  schedule:
+    # Atualiza todos os dias à meia-noite
+    - cron: "0 0 * * *" 
   workflow_dispatch:
-  
-  # Executa sempre que houver um push na branch main
-  push:
-    branches:
-    - main
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Gera a animação em SVG
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: LucaLSN
+          # Gera o arquivo SVG com a cobrinha azul e o fundo escuro
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#2563EB&color_dots=#161B22,#1E3A8A,#2563EB,#3B82F6,#60A5FA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Step 2: Faz o push da imagem para a branch 'output'
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
