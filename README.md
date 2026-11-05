@@ -32,3 +32,12 @@ Hoje, com foco em Ciência de Dados e Engenharia de Dados, continuo montando min
 <br>
 <br>
 
+<div align="center">
+  <h3>🔥 Minhas Contribuições</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsnbsb/lsnbsb/output/dist/github-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsnbsb/lsnbsb/output/dist/github-snake.svg">
+    <img alt="Snake Game Animation" src="https://raw.githubusercontent.com/lsnbsb/lsnbsb/output/dist/github-snake.svg">
+  </picture>
+</div>
+
