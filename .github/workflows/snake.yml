@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: LucaLSN
+          github_user_name: lsnbsb
           # Gera o arquivo SVG com a cobrinha azul e o fundo escuro
           outputs: |
             dist/github-snake.svg?color_snake=#2563EB&color_dots=#161B22,#1E3A8A,#2563EB,#3B82F6,#60A5FA
