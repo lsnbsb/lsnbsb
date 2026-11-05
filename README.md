@@ -30,14 +30,7 @@ Hoje, com foco em Ciência de Dados e Engenharia de Dados, continuo montando min
   <img src="https://img.shields.io/badge/STREAMLIT-0A192F?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 <br>
-<br>
-
-<div align="center">
-  <h3>🔥 Minhas Contribuições</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsnbsb/lsnbsb/output/dist/github-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsnbsb/lsnbsb/output/dist/github-snake.svg">
-    <img alt="Snake Game Animation" src="https://raw.githubusercontent.com/lsnbsb/lsnbsb/output/dist/github-snake.svg">
-  </picture>
+<div>
+<img src="github-snake.svg" alt="Snake Game Animation" width="100%" />
 </div>
 
