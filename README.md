@@ -31,6 +31,7 @@ Hoje, com foco em Ciência de Dados e Engenharia de Dados, continuo montando min
 </p>
 <br>
 <div>
+<h3>Minhas Contribuições 🐙 </h3>
 <img src="github-snake.svg" alt="Snake Game Animation" width="100%" />
 </div>
 
